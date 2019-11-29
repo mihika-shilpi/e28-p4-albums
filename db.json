@@ -26,7 +26,7 @@
       "I Forgot That You Existed",
       "Cruel Summer",
       "Lover",
-      "The Man"	,
+      "The Man" ,
       "The Archer",
       "I Think He Knows",
       "Miss Americana & the Heartbreak Prince",
@@ -36,7 +36,7 @@
       "London Boy",
       "Soon You'll Get Better",
       "False God",
-      "You Need to Calm Down"	,
+      "You Need to Calm Down" ,
       "Afterglow",
       "Me!" ,
       "It's Nice to Have a Friend",
@@ -49,17 +49,17 @@
       "description": "ABBA Gold: Greatest Hits is a compilation album by the Swedish pop group ABBA. It was released on 21 September 1992 through PolyGram and released in 2008 through Universal Music Australia.",
       "artist": "ABBA",
       "songlist": [
-"Summer Night City"	,
+"Summer Night City" ,
 "Angeleyes",
 "The Day Before You Came",
 "Eagle",
 "I Do, I Do, I Do, I Do, I Do",
-"So Long"	,
-"Honey, Honey"	,
+"So Long" ,
+"Honey, Honey" ,
 "The Visitors",
 "Ring Ring",
 "When I Kissed the Teacher",
-The Way Old Friends Do"
+"The Way Old Friends Do"
       ]
     },
 {
@@ -68,11 +68,11 @@ The Way Old Friends Do"
       "description": "What You See Is What You Get is the second studio album by American country music singer Luke Combs, released through River House Artists and Columbia Nashville on November 8, 2019.",
       "artist": "Luke Combs",
       "songlist": [
-      	"Beer Never Broke My Heart",
-	"Refrigerator Door",
-	"Even Though I'm Leaving",
-	"Lovin' on You",
-	"Moon Over Mexico"
+       "Beer Never Broke My Heart",
+ "Refrigerator Door",
+ "Even Though I'm Leaving",
+ "Lovin' on You",
+ "Moon Over Mexico"
       ]
     },
 {
@@ -81,11 +81,11 @@ The Way Old Friends Do"
       "description": "His Hand in Mine is the fifth studio album by American singer and musician Elvis Presley, released on RCA Victor Records in mono and stereo, LPM/LSP 2328, in November 1960. It was the first of three gospel music albums that Presley would issue during his lifetime.",
       "artist": "Elvis Presley",
       "songlist": [
-      	"His Hand in Mine",
-	"I'm Gonna Walk Dem Golden Stairs",
-	"In My Father's House",
-	"Milky White Way",
-	"Known Only to Him"
+       "His Hand in Mine",
+ "I'm Gonna Walk Dem Golden Stairs",
+ "In My Father's House",
+ "Milky White Way",
+ "Known Only to Him"
       ]
     },
     
@@ -110,12 +110,12 @@ The Way Old Friends Do"
       "description": "Heaven and Hell is the ninth studio album by English rock band Black Sabbath, released on 25 April 1980. It is the first Black Sabbath album to feature vocalist Ronnie James Dio, who replaced original vocalist Ozzy Osbourne in 1979",
       "artist": "Black Sabbath",
       "songlist": [
-      	"Neon Knights",
-	"Children of the Sea"	,
-	"Lady Evil",
-	"Heaven and Hell",
-	"Wishing Well",
-	"Die Young"
+       "Neon Knights",
+ "Children of the Sea" ,
+ "Lady Evil",
+ "Heaven and Hell",
+ "Wishing Well",
+ "Die Young"
       ]
     },
     
@@ -125,18 +125,18 @@ The Way Old Friends Do"
       "description": "Didn't It Rain is the second studio album by English actor and musician Hugh Laurie. Recorded in Ocean Way Studios in Los Angeles on January 2013, the album contains several blues songs",
       "artist": "Hugh Laurie",
       "songlist": [
-      	"The St. Louis Blues",
-	"Junkers Blues"	,
-	"Kiss of Fire",
-	"Vicksburg Blues",
-	"The Weed Smoker's Dream",
-	"Wild Honey",
-	"Send Me to the 'Lectric Chair",
-	"Evenin'",
-	"Didn't It Rain",
-	"Careless Love"
+       "The St. Louis Blues",
+ "Junkers Blues" ,
+ "Kiss of Fire",
+ "Vicksburg Blues",
+ "The Weed Smoker's Dream",
+ "Wild Honey",
+ "Send Me to the 'Lectric Chair",
+ "Evenin'",
+ "Didn't It Rain",
+ "Careless Love"
       ]
-    },
+    }
     
     ]
 }
