@@ -1,0 +1,142 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Thanks for the Dance",
+      "description": "Thanks for the Dance is the fifteenth and final studio album by Canadian singer-songwriter Leonard Cohen, released through Columbia Records and Legacy Recordings on November 22, 2019.",
+      "artist(s)": "Leonard Cohen",
+      "songlist": [
+      "Happens to the Heart",
+      "Moving On",
+      "The Night of Santiago",
+      "Thanks for the Dance",
+      "It's Torn",
+      "The Goal",
+      "Puppets",
+      "The Hills",
+      "Listen to the Hummingbird"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lover",
+      "description": "Lover is the seventh studio album by American singer-songwriter Taylor Swift. It was released on August 23, 2019, by Republic Records. As the executive producer, Swift worked with producers Jack Antonoff, Joel Little, Louis Bell, Frank Dukes, and Sounwave on the album",
+      "artist(s)": "Taylor Swift",
+      "songlist": [
+      "I Forgot That You Existed",
+      "Cruel Summer",
+      "Lover",
+      "The Man"	,
+      "The Archer",
+      "I Think He Knows",
+      "Miss Americana & the Heartbreak Prince",
+      "Paper Rings",
+      "Cornelia Street",
+      "Death by a Thousand Cuts",
+      "London Boy",
+      "Soon You'll Get Better",
+      "False God",
+      "You Need to Calm Down"	,
+      "Afterglow",
+      "Me!" ,
+      "It's Nice to Have a Friend",
+      "Daylight"
+      ]
+    },
+{
+      "id": 3,
+      "name": "Gold: Greatest Hits",
+      "description": "ABBA Gold: Greatest Hits is a compilation album by the Swedish pop group ABBA. It was released on 21 September 1992 through PolyGram and released in 2008 through Universal Music Australia.",
+      "artist(s)": "ABBA",
+      "songlist": [
+"Summer Night City"	,
+"Angeleyes",
+"The Day Before You Came",
+"Eagle",
+"I Do, I Do, I Do, I Do, I Do",
+"So Long"	,
+"Honey, Honey"	,
+"The Visitors",
+"Ring Ring",
+"When I Kissed the Teacher",
+The Way Old Friends Do"
+      ]
+    },
+{
+      "id": 4,
+      "name": "What You See Is What You Get",
+      "description": "What You See Is What You Get is the second studio album by American country music singer Luke Combs, released through River House Artists and Columbia Nashville on November 8, 2019.",
+      "artist(s)": "Luke Combs",
+      "songlist": [
+      	"Beer Never Broke My Heart",
+	"Refrigerator Door",
+	"Even Though I'm Leaving",
+	"Lovin' on You",
+	"Moon Over Mexico"
+      ]
+    },
+{
+      "id": 5,
+      "name": "His Hand in Mine",
+      "description": "His Hand in Mine is the fifth studio album by American singer and musician Elvis Presley, released on RCA Victor Records in mono and stereo, LPM/LSP 2328, in November 1960. It was the first of three gospel music albums that Presley would issue during his lifetime.",
+      "artist(s)": "Elvis Presley",
+      "songlist": [
+      	"His Hand in Mine",
+	"I'm Gonna Walk Dem Golden Stairs",
+	"In My Father's House",
+	"Milky White Way",
+	"Known Only to Him"
+      ]
+    },
+    
+    {
+      "id": 6,
+      "name": "Nine Track Mind",
+      "description": "Nine Track Mind is the debut studio album by American singer Charlie Puth. It was released on January 29, 2016, by Artist Partner Group and Atlantic Records, after being scheduled to be released on November 6, 2015.",
+      "artist(s)": "Charlie Puth",
+      "songlist": [
+      "One Call Away",
+      "Dangerously",
+      "Marvin Gaye",
+      "Losing My Mind",
+      "We Don't Talk Anymore",
+      "My Gospel"
+      ]
+    },
+    
+    {
+      "id": 7,
+      "name": "Heaven and Hell",
+      "description": "Heaven and Hell is the ninth studio album by English rock band Black Sabbath, released on 25 April 1980. It is the first Black Sabbath album to feature vocalist Ronnie James Dio, who replaced original vocalist Ozzy Osbourne in 1979",
+      "artist(s)": "Black Sabbath",
+      "songlist": [
+      	"Neon Knights",
+	"Children of the Sea"	,
+	"Lady Evil",
+	"Heaven and Hell",
+	"Wishing Well",
+	"Die Young"
+      ]
+    },
+    
+    {
+      "id": 8,
+      "name": "Didn't It Rain",
+      "description": "Didn't It Rain is the second studio album by English actor and musician Hugh Laurie. Recorded in Ocean Way Studios in Los Angeles on January 2013, the album contains several blues songs",
+      "artist(s)": "Hugh Laurie",
+      "songlist": [
+      	"The St. Louis Blues",
+	"Junkers Blues"	,
+	"Kiss of Fire",
+	"Vicksburg Blues",
+	"The Weed Smoker's Dream",
+	"Wild Honey",
+	"Send Me to the 'Lectric Chair",
+	"Evenin'",
+	"Didn't It Rain",
+	"Careless Love"
+      ]
+    },
+    
+    ]
+}
